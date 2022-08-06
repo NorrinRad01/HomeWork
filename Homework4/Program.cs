@@ -46,8 +46,8 @@ Console.WriteLine("Сумма цифр в числе: " + sumNumber);
 // 6, 1, 33 -> [6, 1, 33]
 
 
-    
-
+/*    
+//Задача 29: Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.
 string RemovingSpaces (string series){
   string seriesNew = "";
   for (int i = 0; i < series.Length; i++)
@@ -119,3 +119,4 @@ comma = comma + ",";
 int[] arrayOfNumbers =  ArrayOfNumbers(seriesNew);
 
 Array(arrayOfNumbers);
+*/
